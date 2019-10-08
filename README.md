@@ -1,2 +1,2 @@
-# parse_server
-Parse Server Deployment = Docker+Kubernetes+Prometheus+Grafana
+# Go Web app 
+Deployed Digitalocean Kubernetes+Docker
